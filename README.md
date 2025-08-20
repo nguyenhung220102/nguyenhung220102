@@ -2,7 +2,7 @@
 
 ###
 
-<h4 align="left">- My name is Hùng. I am currently a fourth-year student at Ho Chi Minh city university of technology.</h4>
+<h4 align="left">- My name is Hùng. I am currently a fresh graduate from Ho Chi Minh city university of technology.</h4>
 
 ###
 
